@@ -1,2 +1,3 @@
 # NPP-Neighborhood-Protection-Program
 NPP- Neighborhood Protection Program is created to ensure our community is served and protected
+Many people go about their days being witnesses to various acts of crime throughout the city, what this app(website)'s goal is to get the community invovlved to assist police relating to crime that is reported. In turn, the police department will be utilized in a way to where the officer and the community will be safe. The user's identity will be covered and protected to aviod retaliation. Those in dangerous situations will have a safe way of reporting crime, descreet use to dialing 911.
